@@ -9,7 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "fake-module": "file: ./node_modules/fake-module/fake.js"
-  }
+  "dependencies": {}
 }

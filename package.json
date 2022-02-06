@@ -6,7 +6,13 @@
   "scripts": {
     "test": "bash test/test.sh"
   },
-  "keywords": ["self-destruct", "anti-commercial"],
+  "keywords": [
+    "self-destruct",
+    "anti-commercial"
+  ],
   "author": "thunder-red-star",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "parent-module": "^3.0.0"
+  }
 }
