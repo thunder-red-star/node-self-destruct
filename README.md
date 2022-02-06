@@ -1,6 +1,7 @@
 # node-self-destruct
 
-Removes your node module from the filesystem if you want it to.
+Removes your node module from the filesystem if you want it to. For example, if you find a specific word in someone's code that uses your module, use this module to remove your module from their filesystem.
+Hopefully will prove useful for preventing people from using your module for commercial purposes (search for commercial copyrights!).
 
 ## Installation
 
