@@ -1,0 +1,12 @@
+{
+  "name": "self-destruct",
+  "version": "1.0.0",
+  "description": "A package to self-destruct a node module if it wants to (self destruction meaning auto deletion of the module)",
+  "main": "index.js",
+  "scripts": {
+    "test": "bash test/test.sh"
+  },
+  "keywords": ["self-destruct", "anti-commercial"],
+  "author": "thunder-red-star",
+  "license": "ISC"
+}
