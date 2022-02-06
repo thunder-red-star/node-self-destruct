@@ -1,8 +1,8 @@
 {
-  "name": "self-destruct",
+  "name": "node-self-destruct",
   "version": "1.0.0",
   "description": "A package to self-destruct a node module if it wants to (self destruction meaning auto deletion of the module)",
-  "main": "index.js",
+  "main": "src/destruct.js",
   "scripts": {
     "test": "bash test/test.sh"
   },
