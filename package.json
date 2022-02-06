@@ -1,6 +1,6 @@
 {
   "name": "node-self-destruct",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to self-destruct a node module if it wants to (self destruction meaning auto deletion of the module)",
   "main": "src/destruct.js",
   "scripts": {
@@ -11,8 +11,5 @@
     "anti-commercial"
   ],
   "author": "thunder-red-star",
-  "license": "ISC",
-  "dependencies": {
-    "parent-module": "^3.0.0"
-  }
+  "license": "Anti-Commercial"
 }
