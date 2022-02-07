@@ -7,11 +7,14 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
 pids
+
+i locked every channel then removed everyone/here perms from all roles then unlocked them all
 *.pid
 *.seed
 *.pid.lock
@@ -40,6 +43,7 @@ build/Release
 
 # Dependency directories
 node_modules/
+
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
