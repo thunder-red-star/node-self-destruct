@@ -35,3 +35,4 @@ module.exports = class Fake {
 - [x] Create self-destruction code
 - [x] Publish to npm
 - [ ] More documentation
+- [ ] Some sort of plugin system, get user geolocation, etc (Russia/Ukraine issue)
