@@ -3,6 +3,8 @@
 Removes your node module from the filesystem if you want it to. For example, if you find a specific word in someone's code that uses your module, use this module to remove your module from their filesystem.
 Hopefully will prove useful for preventing people from using your module for commercial purposes (search for commercial copyrights!).
 
+**Make sure to back your work up as calling this package's destruct mechanism from your script will delete your script's working directory!!**
+
 ## Installation
 
 ```npm i node-self-destruct```
