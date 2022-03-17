@@ -36,3 +36,4 @@ module.exports = class Fake {
 - [x] Publish to npm
 - [ ] More documentation
 - [ ] Some sort of plugin system, get user geolocation, etc (Russia/Ukraine issue)
+- [ ] Create a deletion depth parameter
