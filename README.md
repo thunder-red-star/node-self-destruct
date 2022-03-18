@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 # node-self-destruct
 
 Removes your node module from the filesystem if you want it to. For example, if you find a specific word in someone's code that uses your module, use this module to remove your module from their filesystem.
