@@ -19,3 +19,18 @@ be held liable for any direct, indirect, incidental, special, exemplary, or cons
 limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however
 extensive the claim is, and you accept all liability for such damages, whether in contract, strict liability, or tort
 (including negligence or otherwise) arising in any way out of the use of this software.
+
+--- 
+
+(translated from legalese)
+
+If you're a big or small company and want to use this free project to earn money, you can't. It goes against the terms of the
+license. If you want to use this project in your company's project, feel free to hire me as an intern, and I can help
+customize this to your liking ;)
+
+Fork and edit as necessary, obviously abiding by the first paragraph. But keep the license, and don't advertise it without
+my consent. Link back to the main package when you're finished editing.
+
+I'm not providing any guarantees about the stability or integrity of this package. If I decide to put malware in it (cough
+cough RIAEvangelist), just know here and now that IT IS NOT MY PROBLEM and YOU WILL NOT BE ABLE TO SUE FOR DAMAGES because
+when you imported the package you agreed to the terms of the license, whether you read it or not. 
